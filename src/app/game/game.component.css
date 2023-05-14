@@ -19,7 +19,8 @@ main{
 
 }
 
-app-board{
+app-board
+{
     border: 1px solid rgb(57,57,58) solid;
     height: 200px;
 
